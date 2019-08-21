@@ -4,7 +4,7 @@
 
     <groupId>io.mcarle</groupId>
     <artifactId>sciurus-cache-redis</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>sciurus-cache-redis</name>
@@ -292,7 +292,7 @@
         <url>https://github.com/mcarleio/sciurus-cache-redis</url>
         <connection>scm:git:git@github.com:mcarleio/sciurus-cache-redis.git</connection>
         <developerConnection>scm:git:git@github.com:mcarleio/sciurus-cache-redis.git</developerConnection>
-        <tag>sciurus-cache-redis-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
