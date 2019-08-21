@@ -87,13 +87,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 [sciurus-github]: https://github.com/mcarleio/sciurus
-[maven-image]: https://img.shields.io/maven-central/v/io.mcarle/sciurus.svg
-[maven-url]: http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.mcarle%22%20a%3A%22sciurus%22
-[license-image]: https://img.shields.io/github/license/mcarleio/sciurus.svg
-[license-url]: http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.mcarle%22%20a%3A%22sciurus%22
-[travis-image]: https://img.shields.io/travis/mcarleio/sciurus.svg
-[travis-url]: https://travis-ci.org/mcarleio/sciurus
-[codecov-image]: https://img.shields.io/codecov/c/github/mcarleio/sciurus.svg
-[codecov-url]: https://codecov.io/gh/mcarleio/sciurus
-[codequality-image]: https://scrutinizer-ci.com/g/mcarleio/sciurus/badges/quality-score.png?b=master
-[codequality-url]: https://scrutinizer-ci.com/g/mcarleio/sciurus/?branch=master
+[maven-image]: https://img.shields.io/maven-central/v/io.mcarle/sciurus-cache-redis.svg
+[maven-url]: http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.mcarle%22%20a%3A%22sciurus-cache-redis%22
+[license-image]: https://img.shields.io/github/license/mcarleio/sciurus-cache-redis.svg
+[license-url]: http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.mcarle%22%20a%3A%22sciurus-cache-redis%22
+[travis-image]: https://img.shields.io/travis/mcarleio/sciurus-cache-redis.svg
+[travis-url]: https://travis-ci.org/mcarleio/sciurus-cache-redis
+[codecov-image]: https://img.shields.io/codecov/c/github/mcarleio/sciurus-cache-redis.svg
+[codecov-url]: https://codecov.io/gh/mcarleio/sciurus-cache-redis
+[codequality-image]: https://scrutinizer-ci.com/g/mcarleio/sciurus-cache-redis/badges/quality-score.png?b=master
+[codequality-url]: https://scrutinizer-ci.com/g/mcarleio/sciurus-cache-redis/?branch=master
