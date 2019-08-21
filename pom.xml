@@ -23,7 +23,7 @@
         <dependency>
             <groupId>io.mcarle</groupId>
             <artifactId>sciurus</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
+            <version>1.1.0</version>
         </dependency>
         <dependency>
             <groupId>io.lettuce</groupId>
